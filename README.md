@@ -1,2 +1,2 @@
 # JS-basics
-LINK: https://mj-this-side.github.io/clock
+LINK: https://https://mj-this-side.github.io/Digital-clock/clock
